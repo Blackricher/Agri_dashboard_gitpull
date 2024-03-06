@@ -1,0 +1,246 @@
+package com.api.DTO;
+
+public class VillDTO {
+
+	public int district_code;
+
+	public String district_name;
+	
+	
+	public int tehsil_code;
+
+	public String tehsil_name;
+	
+	public int village_code;	
+	
+	public String vname;
+	
+	public Float total_1430_Survey_conducted;
+
+	public Integer total_1430_Plot_count;
+
+	public Float total_1430_Plot_area;
+
+	public Float total_1430_Crop_area;
+
+	public Float total_1430_rikth_area;
+
+	public Integer common_1430_Plot_count;
+
+	public Float common_1430_Plot_area;
+
+	public Float common_1430_Crop_area;
+
+	public Float common_1430_rikth_area;
+	public Integer common_1430_village_count;
+
+	public Float total_1431_Survey_conducted;
+
+	public Integer total_1431_Plot_count;
+
+	public Float total_1431_Plot_area;
+
+	public Float total_1431_Crop_area;
+
+	public Integer common_1431_Plot_count;
+
+	public Float common_1431_Plot_area;
+
+	public Float common_1431_Crop_area;
+
+	public Integer common_1431_village_count;
+
+	public int getDistrict_code() {
+		return district_code;
+	}
+
+	public void setDistrict_code(int district_code) {
+		this.district_code = district_code;
+	}
+
+	public String getDistrict_name() {
+		return district_name;
+	}
+
+	public void setDistrict_name(String district_name) {
+		this.district_name = district_name;
+	}
+
+	public int getTehsil_code() {
+		return tehsil_code;
+	}
+
+	public void setTehsil_code(int tehsil_code) {
+		this.tehsil_code = tehsil_code;
+	}
+
+	public String getTehsil_name() {
+		return tehsil_name;
+	}
+
+	public void setTehsil_name(String tehsil_name) {
+		this.tehsil_name = tehsil_name;
+	}
+
+	public int getVillage_code() {
+		return village_code;
+	}
+
+	public void setVillage_code(int village_code) {
+		this.village_code = village_code;
+	}
+
+	public String getVname() {
+		return vname;
+	}
+
+	public void setVname(String vname) {
+		this.vname = vname;
+	}
+
+	public Float getTotal_1430_Survey_conducted() {
+		return total_1430_Survey_conducted;
+	}
+
+	public void setTotal_1430_Survey_conducted(Float total_1430_Survey_conducted) {
+		this.total_1430_Survey_conducted = total_1430_Survey_conducted;
+	}
+
+	public Integer getTotal_1430_Plot_count() {
+		return total_1430_Plot_count;
+	}
+
+	public void setTotal_1430_Plot_count(Integer total_1430_Plot_count) {
+		this.total_1430_Plot_count = total_1430_Plot_count;
+	}
+
+	public Float getTotal_1430_Plot_area() {
+		return total_1430_Plot_area;
+	}
+
+	public void setTotal_1430_Plot_area(Float total_1430_Plot_area) {
+		this.total_1430_Plot_area = total_1430_Plot_area;
+	}
+
+	public Float getTotal_1430_Crop_area() {
+		return total_1430_Crop_area;
+	}
+
+	public void setTotal_1430_Crop_area(Float total_1430_Crop_area) {
+		this.total_1430_Crop_area = total_1430_Crop_area;
+	}
+
+	public Float getTotal_1430_rikth_area() {
+		return total_1430_rikth_area;
+	}
+
+	public void setTotal_1430_rikth_area(Float total_1430_rikth_area) {
+		this.total_1430_rikth_area = total_1430_rikth_area;
+	}
+
+	public Integer getCommon_1430_Plot_count() {
+		return common_1430_Plot_count;
+	}
+
+	public void setCommon_1430_Plot_count(Integer common_1430_Plot_count) {
+		this.common_1430_Plot_count = common_1430_Plot_count;
+	}
+
+	public Float getCommon_1430_Plot_area() {
+		return common_1430_Plot_area;
+	}
+
+	public void setCommon_1430_Plot_area(Float common_1430_Plot_area) {
+		this.common_1430_Plot_area = common_1430_Plot_area;
+	}
+
+	public Float getCommon_1430_Crop_area() {
+		return common_1430_Crop_area;
+	}
+
+	public void setCommon_1430_Crop_area(Float common_1430_Crop_area) {
+		this.common_1430_Crop_area = common_1430_Crop_area;
+	}
+
+	public Float getCommon_1430_rikth_area() {
+		return common_1430_rikth_area;
+	}
+
+	public void setCommon_1430_rikth_area(Float common_1430_rikth_area) {
+		this.common_1430_rikth_area = common_1430_rikth_area;
+	}
+
+	public Integer getCommon_1430_village_count() {
+		return common_1430_village_count;
+	}
+
+	public void setCommon_1430_village_count(Integer common_1430_village_count) {
+		this.common_1430_village_count = common_1430_village_count;
+	}
+
+	public Float getTotal_1431_Survey_conducted() {
+		return total_1431_Survey_conducted;
+	}
+
+	public void setTotal_1431_Survey_conducted(Float total_1431_Survey_conducted) {
+		this.total_1431_Survey_conducted = total_1431_Survey_conducted;
+	}
+
+	public Integer getTotal_1431_Plot_count() {
+		return total_1431_Plot_count;
+	}
+
+	public void setTotal_1431_Plot_count(Integer total_1431_Plot_count) {
+		this.total_1431_Plot_count = total_1431_Plot_count;
+	}
+
+	public Float getTotal_1431_Plot_area() {
+		return total_1431_Plot_area;
+	}
+
+	public void setTotal_1431_Plot_area(Float total_1431_Plot_area) {
+		this.total_1431_Plot_area = total_1431_Plot_area;
+	}
+
+	public Float getTotal_1431_Crop_area() {
+		return total_1431_Crop_area;
+	}
+
+	public void setTotal_1431_Crop_area(Float total_1431_Crop_area) {
+		this.total_1431_Crop_area = total_1431_Crop_area;
+	}
+
+	public Integer getCommon_1431_Plot_count() {
+		return common_1431_Plot_count;
+	}
+
+	public void setCommon_1431_Plot_count(Integer common_1431_Plot_count) {
+		this.common_1431_Plot_count = common_1431_Plot_count;
+	}
+
+	public Float getCommon_1431_Plot_area() {
+		return common_1431_Plot_area;
+	}
+
+	public void setCommon_1431_Plot_area(Float common_1431_Plot_area) {
+		this.common_1431_Plot_area = common_1431_Plot_area;
+	}
+
+	public Float getCommon_1431_Crop_area() {
+		return common_1431_Crop_area;
+	}
+
+	public void setCommon_1431_Crop_area(Float common_1431_Crop_area) {
+		this.common_1431_Crop_area = common_1431_Crop_area;
+	}
+
+	public Integer getCommon_1431_village_count() {
+		return common_1431_village_count;
+	}
+
+	public void setCommon_1431_village_count(Integer common_1431_village_count) {
+		this.common_1431_village_count = common_1431_village_count;
+	}
+	
+	
+}

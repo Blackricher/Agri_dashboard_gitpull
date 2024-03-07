@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\AgriStackApi\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+344667382.index
+2241634406.index
+1715823981.index
+347631612.index
+3636066670.index
+2780208717.index
